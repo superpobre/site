@@ -1,9 +1,10 @@
 body {
   color:black;
-  background:rgb(255, 255, 0);
+  background:rgb(243, 243, 7);
+  margin: opx;
 }
 
 hatch{
-    border-bottom: solid 2px rgb(, green, blue) ;
+    border-bottom: solid 2px rgb( green, blue) ;
 
 }
